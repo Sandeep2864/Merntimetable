@@ -14,6 +14,8 @@ export default function Top() {
           and seek insights from experienced people.
         </p>
         <br></br>
+        <p>this is just the sample the trailer will be in the front</p>
+        <br></br>
         <h1>This is 2nd year 1st sem registration</h1>
         <p>hello</p>
       </div>
