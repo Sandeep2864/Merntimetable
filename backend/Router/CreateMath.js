@@ -2,7 +2,7 @@
 
 const express = require('express');
 const router = express.Router();
-const math = require('../Router/Math');
+const math = require('../Schema/Math');
 3
 router.post('/', (req, res) => {
   const { id, maths1, maths2, maths3 } = req.body;
